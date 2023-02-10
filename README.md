@@ -3,9 +3,10 @@
 
 # Desafio Git
 
-
-{c:green}echo Hello World  
-echo Olá Mundo {/c}
+___
+### echo Hello World  
+### echo Olá Mundo    
+___
 
 The challenge is to create a repository and send the commits to the GitHub cloud.
 
