@@ -4,7 +4,7 @@
 # Desafio Git
 
 
-<font color="gree" font-family="monospace">echo Hello World  
+<font color="green">echo Hello World  
 echo Olá Mundo </font>
 
 The challenge is to create a repository and send the commits to the GitHub cloud.
